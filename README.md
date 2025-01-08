@@ -1,0 +1,6 @@
+Here is some experimental sage code I use for my research. It revolves around (metric) ribbon graphs / combinatorial maps.
+
+There are a couple of Jupyter notebooks with some demonstrations:
+* generation of uniformly random unicellular maps using the Chapuy-Feray-Fusy bijection
+* cylinder contributions in minimal strata of Abelian differentials and their spin subspaces
+* ...
